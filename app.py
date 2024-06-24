@@ -73,7 +73,7 @@ cities = ['Mirpur',
  'Kanpur',
  'Bloemfontein']
 
-st.title('ScoreVision AI - future of cricket score forecasts ')
+st.title('FinalInningsAI - predicts final scores effortlessly ')
 
 col1, col2 = st.columns(2)
 
