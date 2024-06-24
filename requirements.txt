@@ -1,4 +1,4 @@
 streamlit
-pikle
+pickle
 sklearn
 xgboost
